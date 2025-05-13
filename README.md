@@ -9,3 +9,11 @@ Munra te ayudará a ensuciarte las manos entregándote ideas para empezar a grab
 
 Lo que importa al final es encontrar algo para decir, y dejar un registro para poder compartir. 
 
+## Funcionalidades básicas v1
+
+- **Generación de recetas musicales**: Crea guías de grabación personalizadas usando IA
+- **Selección de ritual e instrumento**: Personaliza tu experiencia creativa
+- **Historial de recetas**: Accede a tus ideas musicales anteriores
+- **Diseño responsive**: Funciona en cualquier dispositivo
+  
+

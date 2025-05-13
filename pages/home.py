@@ -34,5 +34,5 @@ def home():
             ),
             cls="grid grid-cols-1 md:grid-cols-2 gap-6"
         ),
-        cls="py-8"
+        cls="py-8 md:py-52"
     )

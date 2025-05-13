@@ -12,10 +12,9 @@ def header(current_page="/"):
         A Header component with navigation
     """
     nav_items = [
-        ("home", "/"),
+        ("qué es munra", "/"),
         ("invoca una idea", "/invoca-una-idea"),
-        ("registros", "/registros"),
-        ("historia", "/historia"),
+        ("registros", "/historia"),
         ("contacto", "/contacto"),
     ]
 

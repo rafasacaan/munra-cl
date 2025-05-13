@@ -6,5 +6,30 @@ dist/
 wheels/
 *.egg-info
 
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
 # Virtual environments
 .venv
+.env
+.python-version
+
+# Database
+*.db
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.sesskey
