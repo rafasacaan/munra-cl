@@ -63,7 +63,7 @@ class RecGenerationHistory(SQLModel, table=True):
 
 # Favorites model for future use
 class RecFavorite(SQLModel, table=True):
-    """Model for storing favorite titles."""
+    """Model for storing favorite recs."""
     __tablename__ = "title_favorites"
     
     id: str = Field(default_factory=lambda: str(uuid.uuid4()), primary_key=True)
