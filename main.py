@@ -67,7 +67,7 @@ def get():
     generations = db_service.get_recent_generations(limit=20)
     
     return page_layout(
-        title=f"Rec History - {config.APP_NAME}",
+        title=f"{config.APP_NAME}",
         content=historia_page(generations),
         current_page="/historia"
     )
